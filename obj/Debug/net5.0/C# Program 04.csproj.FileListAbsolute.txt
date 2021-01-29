@@ -1,0 +1,32 @@
+C:\Users\migue\OneDrive\Documents\C#\Program\bin\Debug\net5.0\C# Program 04.exe
+C:\Users\migue\OneDrive\Documents\C#\Program\bin\Debug\net5.0\C# Program 04.deps.json
+C:\Users\migue\OneDrive\Documents\C#\Program\bin\Debug\net5.0\C# Program 04.runtimeconfig.json
+C:\Users\migue\OneDrive\Documents\C#\Program\bin\Debug\net5.0\C# Program 04.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documents\C#\Program\bin\Debug\net5.0\C# Program 04.dll
+C:\Users\migue\OneDrive\Documents\C#\Program\bin\Debug\net5.0\ref\C# Program 04.dll
+C:\Users\migue\OneDrive\Documents\C#\Program\bin\Debug\net5.0\C# Program 04.pdb
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\C# Program 04.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\C# Program 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\C# Program 04.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\C# Program 04.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\C# Program 04.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\C# Program 04.dll
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\ref\C# Program 04.dll
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\C# Program 04.pdb
+C:\Users\migue\OneDrive\Documents\C#\Program\obj\Debug\net5.0\C# Program 04.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\bin\Debug\net5.0\C# Program 04.exe
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\bin\Debug\net5.0\C# Program 04.deps.json
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\bin\Debug\net5.0\C# Program 04.runtimeconfig.json
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\bin\Debug\net5.0\C# Program 04.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\bin\Debug\net5.0\C# Program 04.dll
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\bin\Debug\net5.0\ref\C# Program 04.dll
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\bin\Debug\net5.0\C# Program 04.pdb
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\C# Program 04.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\C# Program 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\C# Program 04.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\C# Program 04.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\C# Program 04.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\C# Program 04.dll
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\ref\C# Program 04.dll
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\C# Program 04.pdb
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Wizard Class\obj\Debug\net5.0\C# Program 04.genruntimeconfig.cache
